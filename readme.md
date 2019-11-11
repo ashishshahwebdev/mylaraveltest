@@ -37,7 +37,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 3. composer install
 
-5. chmod -R 755 *
+5. chmod -R 775 *
 
 6. create new database and its username and password.
 
