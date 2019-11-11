@@ -25,3 +25,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+## Installation
+
+1. mkdir mylaraveltest
+
+2. cd mylaraveltest
+
+2. git clone https://github.com/ashishshahwebdev/mylaraveltest .
+
+3. composer install
+
+5. chmod -R 755 *
+
+6. create new database and its username and password.
+
+7. Please make necessary changes .env file like database credential and Weather API Key.
+
+8. php artisan migrate
+
+9. route to check whether data is /get-city-weather
+
+10. API route to get user information is : /api/users
